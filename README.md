@@ -1,13 +1,34 @@
-## 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom.
+# 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom.
 
-#### 🔴 Sorry! I'm not currently looking for new work.
+## 🔴 Sorry! I'm not currently looking for new work.
 
-🌱 I’m currently learning **React**, **TypeScript**, **GraphQL** and **Next.js**
+## Tools & Languages
 
-🤔 I have 5 years' experience with **HTML5**, **CSS3**, **SCSS / SASS**, **ES6 JS**, **SQL** and a little bit of **Java**. I'm also used to working in a **Hybris** and **Adobe Experience Manager (AEM)** oriented environment, using **Git**, **Gulp**, **NPM** and **Bitbucket**. I'm a massive advocate for **Accessibility**, and strive for **WCAG 2.1 AA Standard** anywhere I roam. Oh, and I'm also awesome at **Adobe Target A/B Testing**, and a huge fan of **Apprenticeships** and **Graduateships** in the workplace!
+![](https://img.shields.io/badge/<HTML>-<5 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-😄 My pronouns: He / Him
+![](https://img.shields.io/badge/<CSS3>-<5 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-⚡ Fun fact! I used to go under the name 'Joseph Gribble', but changed my last name to honour my late father, who sadly passed in 2017. Wait. That wasn't fun!!
+![](https://img.shields.io/badge/<JavaScript (ES6)>-<3 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-⚡ Let's try this again... Fun fact! I'm a self-proclaimed videogame collector (...hoarder.) who has over 500 physical games... Guess I need to get a basement or warehouse soon...
+![](https://img.shields.io/badge/<JQuery>-<3 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<Java>-<1 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<MySQL>-<2 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<SCSS/SASS>-<5 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<React>-<Learning!>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<TypeScript>-<Learning!>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<Git>-<5 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<GitHub>-<2 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<Bitbucket>-<3 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<Hybris>-<3 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<AEM>-<3 years experience>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
