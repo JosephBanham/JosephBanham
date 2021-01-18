@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5ed4f3)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
+![](https://img.shields.io/badge/Human_purpose,_the_nature_of_all_things_material_and_immaterial-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
 
 ##### 💪 I'm uber-confident with...
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
