@@ -28,7 +28,6 @@
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
 
 ##### 💭 Aware of:
-![](https://img.shields.io/badge/Aware--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4d4d4d)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
 
