@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
 
----
-
 ##### 💪 Confident in:
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=249cda)
@@ -28,8 +26,6 @@
 ![](https://img.shields.io/badge/A/B_Testing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Adobe_Experience_Manager_(AEM)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e98440)
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
-
----
 
 ##### 💭 Aware of:
 ![](https://img.shields.io/badge/Aware--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4d4d4d)
