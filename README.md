@@ -32,7 +32,6 @@
 ##### 💭 I'm aware of...
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
-![](https://img.shields.io/badge/The_elephant_in_the_room_
-🐘-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/The_elephant_in_the_room_🐘-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffff)
 
 ---
