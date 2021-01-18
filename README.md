@@ -38,7 +38,7 @@
 
 ---
 
-### ✨ Some of my previous projects
+### ✨ Some of my previous projects...
 
 ##### TO BE UPDATED
 
