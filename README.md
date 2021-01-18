@@ -6,13 +6,13 @@
 
 ### 🔧 Tools & Languages
 
-##### 🤔 Learning:
+##### 🤔 I'm currently getting to grips with...
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0176c6)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5ed4f3)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
 
-##### 💪 Confident in:
+##### 💪 I'm uber-confident with...
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=249cda)
 ![](https://img.shields.io/badge/JavaScript_(ES6)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=eed151)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
 ![](https://img.shields.io/badge/WCAG_2.1_AA_Accessibility_(A11Y)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
-##### 💭 Aware of:
+##### 💭 I'm aware of...
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
 
