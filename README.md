@@ -1,6 +1,6 @@
-### 👋 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom.
+### 👋 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom with 5 years' experience.
 
-> Lover of all things challenging, youth-enabling, videogaming, anime and heavy metal 🤘
+> Lover of all things challenging, youth-enabling, videogaming, anime, gardening and heavy metal 🤘
 
 > 🔴 Sorry! I'm not currently looking for new work.
 
@@ -37,3 +37,13 @@
 ![](https://img.shields.io/badge/The_elephant_in_the_room_🐘-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffff)
 
 ---
+
+### ✨ Some of my previous projects
+
+##### TO BE UPDATED
+
+---
+
+### 💬 You can contact me at...
+
+##### TO BE UPDATED
