@@ -4,9 +4,7 @@
 
 ---
 
-#### 🔧 Tools & Languages
-
----
+### 🔧 Tools & Languages
 
 ##### 🤔 Learning:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0176c6)
