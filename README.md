@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/A/B_Testing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Adobe_Experience_Manager_(AEM)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e98440)
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
+![](https://img.shields.io/badge/WCAG_2.1_AA_Accessibility_(A11Y)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
 ##### 💭 Aware of:
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
