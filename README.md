@@ -31,6 +31,10 @@
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
 ![](https://img.shields.io/badge/WCAG_2.1_AA_Accessibility_(A11Y)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
+##### 🌱 I'm currently working towards...
+![](https://img.shields.io/badge/Becoming_an_Adobe_Certified_Expert_Adobe_Target_Business_Practitioner_(ATBP_ACE)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 ##### 💭 I'm aware of...
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
