@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **React**, **TypeScript**, **GraphQL** and **Next.js**
 
-🤔 I have 5 years' experience with **HTML5**, **CSS3**, **SCSS / SASS**, **ES6 JS**, **SQL** and a little bit of **Java**. I'm also used to working in a **Hybris** and **Adobe Experience Manager (AEM)** oriented environment, using **Git**, **Gulp**, **NPM** and **Bitbucket**. Oh, and I'm also awesome at **Adobe Target A/B Testing**!
+🤔 I have 5 years' experience with **HTML5**, **CSS3**, **SCSS / SASS**, **ES6 JS**, **SQL** and a little bit of **Java**. I'm also used to working in a **Hybris** and **Adobe Experience Manager (AEM)** oriented environment, using **Git**, **Gulp**, **NPM** and **Bitbucket**. I'm a massive advocate for **Accessibility**, and strive for **WCAG 2.1 AA Standard** anywhere I roam. Oh, and I'm also awesome at **Adobe Target A/B Testing**, and a huge fan of **Apprenticeships** and **Graduateships** in the workplace!
 
 😄 My pronouns: He / Him
 
