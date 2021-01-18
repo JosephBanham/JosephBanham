@@ -1,5 +1,3 @@
----
-
 ### 👋 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom with 5 years' experience.
 
 > Lover of all things challenging, youth-enabling, videogaming, anime, gardening and heavy metal 🤘
@@ -49,5 +47,3 @@
 ### 💬 You can contact me at...
 
 ##### TO BE UPDATED
-
----
