@@ -6,13 +6,17 @@
 
 #### 🔧 Tools & Languages
 
-![](https://img.shields.io/badge/Learning--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4d4d4d)
+---
+
+##### 🤔 Learning:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0176c6)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5ed4f3)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
 
-![](https://img.shields.io/badge/Confident--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4d4d4d)
+---
+
+##### 💪 Confident in:
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=249cda)
 ![](https://img.shields.io/badge/JavaScript_(ES6)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=eed151)
@@ -27,6 +31,11 @@
 ![](https://img.shields.io/badge/Adobe_Experience_Manager_(AEM)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e98440)
 ![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
 
+---
+
+##### 💭 Aware of:
 ![](https://img.shields.io/badge/Aware--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4d4d4d)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
+
+---
