@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5ed4f3)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
+![](https://img.shields.io/badge/JSX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8650a1)
 ![](https://img.shields.io/badge/The_reason_why_all_my_diets_end_up_failing..._🍫-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
 ##### 💪 I'm uber-confident with...
