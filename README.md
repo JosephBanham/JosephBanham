@@ -2,8 +2,10 @@
 
 > Lover of all things challenging, youth-enabling, videogaming, anime, gardening and heavy metal 🤘 Obsessor of Scandanavian Design 🎨 Currently in the midst of a name change (Joseph Gribble -> Joseph Banham)
 
-> 🔴 Sorry! I'm not currently looking for new work.
+> 🔴 Sorry! I'm not currently looking for new work. 
+ 
 > [Find me over on LinkedIn](https://www.linkedin.com/in/joseph-joe-gribble-606b40106/)
+
 > Want my CV? Send me a message either on LinkedIn, or email me at *joseph.gribble@outlook.com*
 
 ---
