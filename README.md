@@ -2,7 +2,7 @@
 
 > Currently in the midst of a name change (Joseph Gribble -> Joseph Banham)
 
-> 🔴 Sorry! I'm not currently looking for new work. 
+> Sorry! I'm not currently looking for new work. 
  
 > [Find me over on LinkedIn](https://www.linkedin.com/in/joseph-joe-gribble-606b40106/)
 
@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
 ![](https://img.shields.io/badge/JSX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8650a1)
-![](https://img.shields.io/badge/The_reason_why_all_my_diets_end_up_failing..._🍫-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
 ##### 💪 I'm uber-confident with...
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
@@ -45,7 +44,6 @@
 ##### 💭 I'm aware of...
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
-![](https://img.shields.io/badge/The_elephant_in_the_room_🐘-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffff)
 
 ---
 
@@ -54,7 +52,3 @@
 ##### TO BE UPDATED
 
 ---
-
-### 💬 You can contact me at...
-
-##### TO BE UPDATED
