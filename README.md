@@ -7,5 +7,3 @@
 > [Find me over on LinkedIn](https://www.linkedin.com/in/joseph-joe-gribble-606b40106/)
 
 > Want my CV? Send me a message either on LinkedIn, or email me at *joseph.gribble@outlook.com*
-
----
