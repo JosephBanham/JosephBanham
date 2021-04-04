@@ -1,4 +1,4 @@
-### 👋 'eyup - I'm Joseph Banham, a 23 y/o Front-End Developer based in Leeds, United Kingdom with 5 years' experience.
+### 'eyup - I'm Joseph Banham, a 24 y/o Front-End Developer based in Leeds, United Kingdom with 5 years' experience.
 
 > Currently in the midst of a name change (Joseph Gribble -> Joseph Banham)
 
@@ -7,48 +7,5 @@
 > [Find me over on LinkedIn](https://www.linkedin.com/in/joseph-joe-gribble-606b40106/)
 
 > Want my CV? Send me a message either on LinkedIn, or email me at *joseph.gribble@outlook.com*
-
----
-
-### 🔧 Tools & Languages
-
-##### 🤔 I'm currently getting to grips with...
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0176c6)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5ed4f3)
-![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f7c427)
-![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=de33a6)
-![](https://img.shields.io/badge/JSX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8650a1)
-
-##### 💪 I'm uber-confident with...
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e85d24)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=249cda)
-![](https://img.shields.io/badge/JavaScript_(ES6)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=eed151)
-![](https://img.shields.io/badge/JQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0764ab)
-![](https://img.shields.io/badge/SCSS/SASS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e94e31)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=302f2f)
-![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2580f7)
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=c53635)
-![](https://img.shields.io/badge/Adobe_Target-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=01d2f4)
-![](https://img.shields.io/badge/A/B_Testing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Adobe_Experience_Manager_(AEM)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e98440)
-![](https://img.shields.io/badge/Hybris_1810-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=014994)
-![](https://img.shields.io/badge/WCAG_2.1_AA_Accessibility_(A11Y)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Block_Element_Modifier_(BEM)_Methodology-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Atomic_Design-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
-
-##### 🌱 I'm currently working towards...
-![](https://img.shields.io/badge/Becoming_an_Adobe_Certified_Expert_Adobe_Target_Business_Practitioner_(ATBP_ACE)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-##### 💭 I'm aware of...
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dd8a00)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e51f24)
-
----
-
-### ✨ Some of my previous projects...
-
-##### TO BE UPDATED
 
 ---
