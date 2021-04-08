@@ -1,4 +1,4 @@
-### 'eyup - I'm Joseph Banham, a 24 y/o Front-End Developer based in Leeds, United Kingdom with 5 years' experience in the Telecomms industry, working in an Agile DevOps environment.
+### 'eyup - I'm Joseph Banham, a 24 y/o Front-End Developer based in Leeds, United Kingdom with 6 years' experience in the Telecomms industry, working in an Agile DevOps environment.
 
 > Currently in the midst of a name change (Joseph Gribble -> Joseph Banham)
 
